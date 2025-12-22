@@ -44,9 +44,6 @@
 
 ### 📫 How to reach me
 <p align="left">
-  <a href="mailto:vn2616003@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
-  </a>
   <a href="https://www.linkedin.com/in/6bb682308">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
