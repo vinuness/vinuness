@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  C# | ASP.NET | Back-end | SQL | Fullstack | Git & GitHub
+  C# | ASP.NET | Back-end | SQL | Fullstack | Git/GitHub
 </h3>
 
 ---
