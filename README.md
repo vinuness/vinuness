@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Vinicius Nunes
+  Olá 👋, eu sou Vinicius Nunes
 </h1>
 
 <h3 align="center">
@@ -8,23 +8,23 @@
 
 ---
 
-### 💻 About me
-- 🎓 Student focused on software development and backend systems
-- 🚀 Interested in building scalable and well-structured applications
-- 📚 Projects developed with learning and market-oriented practices
-- 🔎 Continuous improvement in programming logic and system design
+### 💻 Sobre mim
+- 🎓 Estudante focado em desenvolvimento de software e sistemas backend/fullstack
+- 🚀 Interessado em construir aplicações escaláveis e bem estruturadas
+- 📚 Projetos desenvolvidos com foco em aprendizado e práticas orientadas ao mercado
+- 🔎 Aprimoramento contínuo em lógica de programação e design de sistemas
 
 ---
 
-### 🛠️ Currently working on
-- Backend development using **C#** and **ASP .NET**
-- Building **REST APIs** and fullstack applications
-- Database modeling and queries with **SQL**
-- Version control and collaboration using **Git & GitHub**
+### 🛠️ Atualmente trabalhando com
+- Desenvolvimento backend utilizando **C#** e **ASP.NET**
+- Construção de **APIs REST** e aplicações fullstack
+- Modelagem de banco de dados e consultas com **SQL**
+- Controle de versão e colaboração usando **Git & GitHub**
 
 ---
 
-### 🧠 Technologies & Tools
+### 🧠 Tecnologias & Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 Como entrar em contato comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/6bb682308">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
