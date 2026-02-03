@@ -13,15 +13,7 @@
 - 🚀 Interessado em construir aplicações escaláveis e bem estruturadas
 - 📚 Projetos desenvolvidos com foco em aprendizado e práticas orientadas ao mercado
 - 🔎 Aprimoramento contínuo em lógica de programação e design de sistemas
-
----
-
-### 🛠️ Atualmente trabalhando com
-- Desenvolvimento backend utilizando **C#** e **ASP.NET**
-- Construção de **APIs REST** e aplicações fullstack
-- Modelagem de banco de dados e consultas com **SQL**
-- Controle de versão e colaboração usando **Git & GitHub**
-
+  
 ---
 
 ### 🧠 Tecnologias & Ferramentas
