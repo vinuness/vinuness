@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá 👋, eu sou Vinicius Nunes
+  Hi 👋, I'm Vinicius Nunes
 </h1>
 
 <h3 align="center">
@@ -8,15 +8,15 @@
 
 ---
 
-### 💻 Sobre mim
-- 🎓 Estudante focado em desenvolvimento de software e sistemas backend/fullstack
-- 🚀 Interessado em construir aplicações escaláveis e bem estruturadas
-- 📚 Projetos desenvolvidos com foco em aprendizado e práticas orientadas ao mercado
-- 🔎 Aprimoramento contínuo em lógica de programação e design de sistemas
-  
+### 💻 About Me
+- 🎓 Student focused on software development and backend/fullstack systems
+- 🚀 Interested in building scalable and well-structured applications
+- 📚 Projects developed with a focus on learning and industry-oriented practices
+- 🔎 Continuously improving programming logic and system design
+
 ---
 
-### 🧠 Tecnologias & Ferramentas
+### 🧠 Technologies & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET"/>
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/deviconsicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Como entrar em contato comigo
+### 📫 How to Reach Me
 <p align="left">
   <a href="https://www.linkedin.com/in/6bb682308">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
