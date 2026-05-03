@@ -1,5 +1,7 @@
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Vinicius Nunes</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2500&pause=800&center=true&vCenter=true&width=700&color=00FF00&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;VINUNESS+ONLINE;BACKEND+DEVELOPER" />
+</p>
 
 <h3 align="center">
   Information Systems Student | Software Engineering | Backend & Full-stack Development
@@ -63,7 +65,7 @@
 <h3>📫 How to Reach Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/6bb682308">
+  <a href="https://www.linkedin.com/in/vinuness">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
