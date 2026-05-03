@@ -24,12 +24,12 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://ghstats.dev/api/card?username=vinuness&theme=midnight&border_radius=10&custom_title=My+Status" />
+      <img src="https://ghstats.dev/api/card?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&border_radius=10&hide_title=true" />
     </td>
     <td align="left">
-      <img src="https://ghstats.dev/api/sparkline?username=vinuness&theme=midnight&days=30&width=320&height=80" />
+      <img src="https://ghstats.dev/api/sparkline?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&days=30&width=320&height=80" />
       <br/><br/>
-      <img src="https://ghstats.dev/api/langs?username=vinuness&theme=midnight&border_radius=10&custom_title=Top+Languages" />
+      <img src="https://ghstats.dev/api/langs?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&border_radius=10&custom_title=Top+Languages" />
     </td>
   </tr>
 </table>
