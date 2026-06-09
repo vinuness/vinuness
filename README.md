@@ -21,18 +21,13 @@
 ---
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://ghstats.dev/api/card?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&border_radius=10&hide_title=true" />
-    </td>
-    <td align="left">
-      <img src="https://ghstats.dev/api/sparkline?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&days=30&width=320&height=80" />
-      <br/><br/>
-      <img src="https://ghstats.dev/api/langs?username=vinuness&title_color=00C853&icon_color=00FF00&bg=000000&border_radius=10&custom_title=Top+Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vinuness&theme=chartreuse-dark" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinuness&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinuness&layout=compact&theme=chartreuse-dark" />
+</div>
 
 ---
 
