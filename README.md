@@ -25,8 +25,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=vinuness&theme=hacker" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinuness&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinuness&layout=compact&theme=chartreuse-dark" />
 </div>
 
 ---
